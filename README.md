@@ -1,0 +1,2 @@
+# HOSTEL-COMPLAINT-SYSTEM-1st-Semester-Python-Project-
+Python application for managing hostel complaints. Students can submit detailed complaints, while admins can review, resolve, and track them. It uses file handling for complaint storage, indexing, and resolution history. Built as my 1st semester Python project, it demonstrates Python fundamentals like functions, file I/O, and simple data structures
