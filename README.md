@@ -25,13 +25,13 @@ This repository contains my **first semester Python project**: a **Hostel Compla
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Hostel-Complaint-System.git
+git clone https://github.com/TheHassanBukhari/HOSTEL-COMPLAINT-SYSTEM-1st-Semester-Python-Project-.git
 ```
 
 2. **Navigate to the project folder:**
 
 ```bash
-cd Hostel-Complaint-System
+cd HOSTEL-COMPLAINT-SYSTEM-1st-Semester-Python-Project-
 ```
 
 3. **Run the program:**
